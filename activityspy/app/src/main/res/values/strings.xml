@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">activityspy</string>
+    <string name="title_activity_activity_spy">ActivitySpy</string>
+    <string name="user_message">Greetings, UW!</string>
+    <string name="action_settings">Settings</string>
+
+</resources>

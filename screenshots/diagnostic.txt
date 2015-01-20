@@ -1,0 +1,35 @@
+01-20 08:16:59.690    7472-7472/edu.washington.hudson.activityspy I/dalvikvm? Could not find method android.view.ViewGroup.onNestedScrollAccepted, referenced from method android.support.v7.internal.widget.ActionBarOverlayLayout.onNestedScrollAccepted
+01-20 08:16:59.690    7472-7472/edu.washington.hudson.activityspy W/dalvikvm? VFY: unable to resolve virtual method 11345: Landroid/view/ViewGroup;.onNestedScrollAccepted (Landroid/view/View;Landroid/view/View;I)V
+01-20 08:16:59.690    7472-7472/edu.washington.hudson.activityspy I/dalvikvm? Could not find method android.view.ViewGroup.onStopNestedScroll, referenced from method android.support.v7.internal.widget.ActionBarOverlayLayout.onStopNestedScroll
+01-20 08:16:59.690    7472-7472/edu.washington.hudson.activityspy W/dalvikvm? VFY: unable to resolve virtual method 11351: Landroid/view/ViewGroup;.onStopNestedScroll (Landroid/view/View;)V
+01-20 08:16:59.690    7472-7472/edu.washington.hudson.activityspy I/dalvikvm? Could not find method android.support.v7.internal.widget.ActionBarOverlayLayout.stopNestedScroll, referenced from method android.support.v7.internal.widget.ActionBarOverlayLayout.setHideOnContentScrollEnabled
+01-20 08:16:59.690    7472-7472/edu.washington.hudson.activityspy W/dalvikvm? VFY: unable to resolve virtual method 9039: Landroid/support/v7/internal/widget/ActionBarOverlayLayout;.stopNestedScroll ()V
+01-20 08:16:59.700    7472-7472/edu.washington.hudson.activityspy I/dalvikvm? Could not find method android.content.res.TypedArray.getChangingConfigurations, referenced from method android.support.v7.internal.widget.TintTypedArray.getChangingConfigurations
+01-20 08:16:59.700    7472-7472/edu.washington.hudson.activityspy W/dalvikvm? VFY: unable to resolve virtual method 364: Landroid/content/res/TypedArray;.getChangingConfigurations ()I
+01-20 08:16:59.700    7472-7472/edu.washington.hudson.activityspy I/dalvikvm? Could not find method android.content.res.TypedArray.getType, referenced from method android.support.v7.internal.widget.TintTypedArray.getType
+01-20 08:16:59.700    7472-7472/edu.washington.hudson.activityspy W/dalvikvm? VFY: unable to resolve virtual method 386: Landroid/content/res/TypedArray;.getType (I)I
+01-20 08:16:59.710    7472-7472/edu.washington.hudson.activityspy I/ActivitySpy? onCreate event fired
+01-20 08:16:59.760    7472-7472/edu.washington.hudson.activityspy I/Adreno-EGL? <qeglDrvAPI_eglInitialize:410>: EGL 1.4 QUALCOMM build: AU_LINUX_ANDROID_LNX.LA.3.5.2.2_RB1.04.04.04.087.028_msm8974_LNX.LA.3.5.2.2_RB1__release_AU ()
+    OpenGL ES Shader Compiler Version: E031.24.00.15
+    Build Date: 07/31/14 Thu
+    Local Branch:
+    Remote Branch: quic/LNX.LA.3.5.2.2_rb1
+    Local Patches: NONE
+    Reconstruct Branch: AU_LINUX_ANDROID_LNX.LA.3.5.2.2_RB1.04.04.04.087.028 +  NOTHING
+01-20 08:16:59.830    7472-7472/edu.washington.hudson.activityspy I/Timeline? Timeline: Activity_idle id: android.os.BinderProxy@421215d0 time:347596599
+01-20 08:17:51.750    7472-7472/edu.washington.hudson.activityspy I/Timeline? Timeline: Activity_idle id: android.os.BinderProxy@421215d0 time:347648518
+01-20 08:17:51.750    7472-7472/edu.washington.hudson.activityspy W/IInputConnectionWrapper? showStatusIcon on inactive InputConnection
+01-20 08:18:05.110    7472-7472/edu.washington.hudson.activityspy I/Timeline? Timeline: Activity_idle id: android.os.BinderProxy@421215d0 time:347661872
+01-20 08:18:09.240    7472-7472/edu.washington.hudson.activityspy E/ActivitySpy? We're going down, Captain!
+01-20 08:18:09.280    7472-7472/edu.washington.hudson.activityspy I/ActivitySpy? onCreate event fired
+01-20 08:18:09.330    7472-7472/edu.washington.hudson.activityspy I/Timeline? Timeline: Activity_idle id: android.os.BinderProxy@421215d0 time:347666098
+01-20 08:18:11.870    7472-7472/edu.washington.hudson.activityspy E/ActivitySpy? We're going down, Captain!
+01-20 08:18:11.970    7472-7472/edu.washington.hudson.activityspy I/ActivitySpy? onCreate event fired
+01-20 08:18:12.030    7472-7472/edu.washington.hudson.activityspy I/Timeline? Timeline: Activity_idle id: android.os.BinderProxy@421215d0 time:347668790
+01-20 08:18:14.440    7472-7472/edu.washington.hudson.activityspy E/ActivitySpy? We're going down, Captain!
+01-20 08:18:14.520    7472-7472/edu.washington.hudson.activityspy I/ActivitySpy? onCreate event fired
+01-20 08:18:14.580    7472-7472/edu.washington.hudson.activityspy I/Timeline? Timeline: Activity_idle id: android.os.BinderProxy@421215d0 time:347671348
+01-20 08:18:16.680    7472-7472/edu.washington.hudson.activityspy E/ActivitySpy? We're going down, Captain!
+01-20 08:18:16.760    7472-7472/edu.washington.hudson.activityspy I/ActivitySpy? onCreate event fired
+01-20 08:18:16.810    7472-7472/edu.washington.hudson.activityspy I/Timeline? Timeline: Activity_idle id: android.os.BinderProxy@421215d0 time:347673577
+01-20 08:18:19.040    7472-7472/edu.washington.hudson.activityspy E/ActivitySpy? We're going down, Captain!
